@@ -5,9 +5,9 @@ Professional profile **[here (LinkedIn)](https://www.linkedin.com/in/curtiskraus
 #### whoami
 * I secure systems.
 * I write articles on technology and philosophy.
-* I produce electronic music.
 * I (attempt to) repair stuff.
 * I read lots of books.
+* I'm teaching myself Japanese.
 * ...and occasionally I write code.
 
 ---
